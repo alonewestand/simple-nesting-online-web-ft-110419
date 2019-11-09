@@ -88,7 +88,7 @@ def changing_alan
           :known_for => "Unix",
           :languages => ["C"]
         }
-
+ 		}
 end
 
 def adding_to_dennis
